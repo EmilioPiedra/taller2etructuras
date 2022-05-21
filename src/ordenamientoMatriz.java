@@ -55,5 +55,6 @@ public class ordenamientoMatriz {
         obj.ordenamientoBurbuja(matriz);
         System.out.println("Matriz Ordenada");
         obj.presentarMatrices(matriz);
+        System.out.println();
     }
 }
