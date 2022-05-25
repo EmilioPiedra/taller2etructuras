@@ -62,7 +62,7 @@ public class notasAlum {
     }
 
     public static void main(String[] args) {
-        notasAlum obj = new notasAlum (5,3);
+        notasAlum obj = new notasAlum (5,5);
         String [] alumnos ={"Maria","Carmen","Ana","Daniela","Laura","Antonio","Jose","Luis","Jorge","Javier","Josep","Emilio", "Noa","Valeria","Ana","Daniela","Laura","Antonio","Jose", "Saulo" };
         //20 col
 
